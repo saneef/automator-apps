@@ -1,7 +1,7 @@
 automator-apps
 ==============
 
-Tiny Apps (Automator Work flows) for OS X. [Download] (https://github.com/saneef/automator-apps/archive/master.zip)
+Tiny Apps (Automator Work flows) for OS X. [http://saneef.github.io/automator-apps/]
 
 I have made these work flows so that I can quickly invoke them through Spotlight, [Alfred] (http://www.alfredapp.com/) or [Quicksilver] (http://qsapp.com/).
 
