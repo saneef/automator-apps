@@ -7,6 +7,8 @@ I have made these work flows so that I can quickly invoke them through Spotlight
 
 -----------------------------
 
+## iTunes
+
 ### Up - iTunes Volume.app
 Increases the sound volume in iTunes (by 20)
 
@@ -18,3 +20,8 @@ Sets the sound volume to zero.
 
 ### Full Volume - iTunes.app
 Sets the sound volume to full.
+
+-----------------------------
+
+## Contributing
+You can edit all the apps with [Automator] (http://support.apple.com/kb/ht2488).
